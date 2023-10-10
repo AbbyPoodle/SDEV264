@@ -1,0 +1,1 @@
+# SDEV264 This is the final project for the course.  It is an app for chemistry students to calculate molarity.  User can select different mass and volume units, and results will display with the input values and units as an instruction list for solution preparation.  Created Oct 2023 by Erin Denning.
